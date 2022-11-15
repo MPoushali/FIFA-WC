@@ -1,11 +1,3 @@
-gitdb
-GitPython
-jsonschema
-jupyter-server
-jupyter_client
-jupyter_core
-jupyterlab-pygments
-jupyterlab-widgets
 matplotlib
 matplotlib-inline
 numpy
